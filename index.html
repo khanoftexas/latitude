@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="UTF-8">
-  <title>Bootstrap Components</title>
+  <title>Web Visualization</title>
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
   <link rel="stylesheet" href="style.css">
 </head>
@@ -16,6 +16,7 @@
     <button class="navbar-toggler  border border-white" type="button" data-toggle="collapse" data-target="#navbarNavDropdown"
       aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
+
     </button>
     <div class="collapse navbar-collapse" id="navbarNavDropdown">
       <ul class="navbar-nav ml-auto">
@@ -42,11 +43,64 @@
     </div>
   </nav>
 </div>
+<!-- Content Section -->
+<div class="container">
+  <div class="row" style="padding-bottom: 30px;">
+    <div class="col-lg-7 col-md-12">
+      <!-- Left box  -->
+      <div class="box">
+        <h3 class="title">Summary: Latitude vs. X</h3>
+        <hr>
+        <img src="Resources/assets/images/Fig1.png" class="vizualization rounded float-left" alt="Max Temperature Graph">
+            <p>
+                The purpose of this project was to analyze how weather changes as you get closer to the equator. To accomplish this analysis, we first pulled data from the OpenWeatherMap API to assemble a dataset on over 500 cities. 
+
+                After assembling the dataset, we used Matplotlib to plot various aspects of the weather vs. latitude. Factors we looked at included: temperature, cloudiness, windspeed, and humidity. This site provides the source data and visualizations created as a part of the analysis, as well as explanations and descriptions of any trends and correlations witnessed.</p>
+      </div>
+    </div>
+    <div class="col-lg-5 col-md-12">
+      <!-- Right Box -->
+      <div class="box">
+        <h3 class="title">Visualizations</h3>
+        <hr>
+        <div class="container">
+          <div class="row" style="padding-bottom: 30px;">
+            <div class="col-6">
+              <a href="temperature.html">
+                <img class="panel" src="Resources/assets/images/Fig1.png" alt="Max Temperature Image">
+              </a>
+            </div>
+            <div class="col-6">
+              <a href="humidity.html">
+                <img class="panel" src="Resources/assets/images/Fig2.png" alt="Humidity Graph">
+              </a>
+            </div>
+          </div>
+
+          <div class="row" style="padding-bottom: 30px;">
+            <div class="col-6">
+              <a href="cloudiness.html">
+                <img class="panel" src="Resources/assets/images/Fig3.png" alt="Cloudiness Graph">
+              </a>
+            </div>
+            <div class="col-6">
+              <a href="wind.html">
+                <img class="panel" src="Resources/assets/images/Fig4.png" alt="Wind Speed Graph">
+              </a>
+            </div>
 
 
+          </div>
+        </div>
+
+
+      </div>
+    </div>
+  </div>
+</div>
             <!-- Footer Section -->
             <footer>
-              <div class="footer">Copyright &copy; Khanoftexas 2019</div> 
+              <div class="footer">Khanoftexas 2019</div> 
             </footer>
     <!-- Bootstrap core JavaScript
     ================================================== -->

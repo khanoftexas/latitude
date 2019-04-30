@@ -1,0 +1,609 @@
+CityNumber,City,CountryName,Lat,Lng,MaxTemp,Humidity,Cloudiness,WindSpeed,Continent,Country,Date
+0,Hasaki,Japan,35.73,140.83,63,88,75,9.17,Asia,JP,3/22/2019
+1,Barrow,Argentina,-38.31,-60.23,54.23,78,44,8.32,South America,AR,3/22/2019
+2,Arraial do Cabo,Brazil,-22.97,-42.02,71.6,94,90,16.26,South America,BR,3/21/2019
+3,Bulawayo,Zimbabwe,-20.16,28.59,60.62,89,0,4.97,Africa,ZW,3/22/2019
+4,Hithadhoo,Maldives,-0.6,73.08,84.56,100,76,5.75,Asia,MV,3/22/2019
+5,Jasper,United States of America,33.83,-87.28,63,47,0,8.99,North America,US,3/22/2019
+6,Kapaa,United States of America,22.08,-159.32,80.6,57,75,11.41,North America,US,3/22/2019
+7,Rikitea,French Polynesia,-23.12,-134.97,79.34,98,0,19.06,Oceania,PF,3/22/2019
+8,Okhotsk,Russian Federation,59.36,143.24,13.01,82,68,4.74,Europe,RU,3/22/2019
+8,Okhotsk,Russian Federation,59.36,143.24,13.01,82,68,4.74,Asia,RU,3/22/2019
+9,Lodja,Congo,-3.52,23.6,75.02,88,48,2.39,Africa,CD,3/22/2019
+10,Punta Arenas,Chile,-53.16,-70.91,53.6,71,75,8.05,South America,CL,3/22/2019
+11,Nanortalik,Greenland,60.14,-45.24,22.01,100,68,29.91,North America,GL,3/22/2019
+12,Ushuaia,Argentina,-54.81,-68.31,46.4,93,75,16.11,South America,AR,3/21/2019
+13,Chokurdakh,Russian Federation,70.62,147.9,-16.15,47,12,4.52,Europe,RU,3/22/2019
+13,Chokurdakh,Russian Federation,70.62,147.9,-16.15,47,12,4.52,Asia,RU,3/22/2019
+14,Ribeira Grande,Portugal,38.52,-28.7,60.89,98,36,10.11,Europe,PT,3/22/2019
+15,Bethanien,Namibia,-26.5,17.16,61.07,39,0,4.74,Africa,,3/22/2019
+16,Jamestown,Australia,-33.21,138.6,70.34,82,44,4.63,Oceania,AU,3/22/2019
+17,Bredasdorp,South Africa,-34.53,20.04,63,88,100,1.12,Africa,ZA,3/22/2019
+18,Avarua,Cook Islands,-21.21,-159.78,86,79,0,9.17,Oceania,CK,3/22/2019
+19,Hosanagara,India,13.92,75.07,64.58,94,0,1.39,Asia,IN,3/22/2019
+20,Tual,Indonesia,-5.67,132.75,84.92,95,0,13.69,Asia,ID,3/22/2019
+21,Maningrida,Australia,-12.05,134.23,83.12,94,56,4.29,Oceania,AU,3/22/2019
+22,Kodiak,United States of America,39.95,-94.76,54,18,1,5.82,North America,US,3/22/2019
+23,Castro,Chile,-42.48,-73.76,55.4,100,90,8.05,South America,CL,3/21/2019
+24,Lucea,Jamaica,18.44,-78.17,80.01,78,75,6.93,North America,JM,3/22/2019
+25,Pangkalanbuun,Indonesia,-2.68,111.62,75.2,97,64,4.18,Asia,ID,3/22/2019
+26,Trat,Thailand,12.25,102.51,88,61,32,6.42,Asia,TH,3/22/2019
+27,Babushkin,Russian Federation,51.72,105.86,15.89,86,12,3.96,Europe,RU,3/22/2019
+27,Babushkin,Russian Federation,51.72,105.86,15.89,86,12,3.96,Asia,RU,3/22/2019
+28,Sorong,Indonesia,-0.86,131.25,80.87,100,36,6.64,Asia,ID,3/22/2019
+29,Alofi,Niue,-19.06,-169.92,80.6,83,90,8.05,Oceania,NU,3/22/2019
+30,Bakchar,Russian Federation,57.02,82.07,22.37,86,36,7.43,Europe,RU,3/22/2019
+30,Bakchar,Russian Federation,57.02,82.07,22.37,86,36,7.43,Asia,RU,3/22/2019
+31,Torbay,Canada,47.66,-52.73,30.99,63,5,14.99,North America,CA,3/22/2019
+32,Port Hardy,Canada,50.7,-127.42,60.8,48,75,3.36,North America,CA,3/22/2019
+33,Tasiilaq,Greenland,65.61,-37.64,15.8,78,92,41.38,North America,GL,3/21/2019
+34,Busselton,Australia,-33.64,115.35,72,50,36,18.84,Oceania,AU,3/22/2019
+35,Albany,United States of America,42.65,-73.75,41,80,90,4.7,North America,US,3/22/2019
+36,Nikolskoye,Russian Federation,59.7,30.79,37.4,93,90,15.66,Europe,RU,3/22/2019
+36,Nikolskoye,Russian Federation,59.7,30.79,37.4,93,90,15.66,Asia,RU,3/22/2019
+37,Atherton,United Kingdom of Great Britain & Northern Ireland,53.52,-2.49,53.01,87,90,3.36,Europe,GB,3/22/2019
+38,Yellowknife,Canada,62.45,-114.38,41,65,20,17.22,North America,CA,3/22/2019
+39,Bathsheba,Barbados,13.22,-59.52,77,83,75,9.17,North America,BB,3/21/2019
+40,Springbok,South Africa,-29.67,17.88,55.67,57,0,6.76,Africa,ZA,3/22/2019
+41,Caravelas,Brazil,-17.73,-39.27,81.86,100,64,20.07,South America,BR,3/22/2019
+42,Mar del Plata,Argentina,-46.43,-67.52,57.2,52,8,6.98,South America,AR,3/22/2019
+43,Bluff,Australia,-23.58,149.07,83.3,68,0,5.64,Oceania,AU,3/22/2019
+44,Dingle,Philippines,11,122.67,80.06,65,0,11.01,Asia,PH,3/22/2019
+45,Horta,Spain,41.43,2.16,54,80,0,4.7,Europe,ES,3/22/2019
+46,Gambo,Nigeria,11.96,9.63,81.86,46,12,6.76,Africa,NG,3/22/2019
+47,Gorontalo,Indonesia,0.54,123.06,77.72,88,20,2.51,Asia,ID,3/22/2019
+48,Matara,Peru,-13.74,-72.9,46.58,88,64,1.95,South America,PE,3/22/2019
+49,Kavieng,Papua New Guinea,-2.57,150.8,85.01,97,32,5.41,Oceania,PG,3/22/2019
+50,Saint Petersburg,Russian Federation,59.94,30.32,37.4,93,90,15.66,Europe,RU,3/22/2019
+50,Saint Petersburg,Russian Federation,59.94,30.32,37.4,93,90,15.66,Asia,RU,3/22/2019
+51,Hermanus,South Africa,-34.42,19.24,66,91,56,4.74,Africa,ZA,3/22/2019
+52,Karachi,Pakistan,24.87,67.03,68,72,0,10.11,Asia,PK,3/22/2019
+53,Saskylakh,Russian Federation,71.97,114.09,8.33,78,64,1.16,Europe,RU,3/22/2019
+53,Saskylakh,Russian Federation,71.97,114.09,8.33,78,64,1.16,Asia,RU,3/22/2019
+54,Khabarovsk,Russian Federation,48.48,135.08,17.6,44,0,15.66,Europe,RU,3/21/2019
+54,Khabarovsk,Russian Federation,48.48,135.08,17.6,44,0,15.66,Asia,RU,3/21/2019
+55,Mecca,Saudi Arabia,21.43,39.83,61.61,88,0,2.62,Asia,SA,3/22/2019
+56,Nyurba,Russian Federation,63.29,118.35,3.74,80,44,6.98,Europe,RU,3/22/2019
+56,Nyurba,Russian Federation,63.29,118.35,3.74,80,44,6.98,Asia,RU,3/22/2019
+57,San Patricio,Paraguay,-26.98,-56.83,67.37,63,0,5.75,South America,PY,3/22/2019
+58,Airai,Timor-Leste,-8.93,125.41,77.72,73,0,1.83,Asia,TL,3/22/2019
+59,Ladario,Portugal,40.7,-7.74,51.01,81,0,1.95,Europe,PT,3/22/2019
+60,Visnes,Norway,59.36,5.22,39,98,0,10.29,Europe,NO,3/22/2019
+61,Ilulissat,Greenland,69.22,-51.1,-9.41,63,36,14.99,North America,GL,3/21/2019
+62,Bambous Virieux,Mauritius,-20.34,57.76,82.4,74,75,4.7,Africa,MU,3/22/2019
+63,Gat,Senegal,14.69,-16.54,68,88,75,10.29,Africa,SN,3/22/2019
+64,Marjamaa,Estonia,58.9,24.43,39,69,0,13.87,Europe,EE,3/22/2019
+65,Lorengau,Papua New Guinea,-2.02,147.27,83.21,98,48,6.2,Oceania,PG,3/22/2019
+66,Grand Gaube,Mauritius,-20.01,57.66,82.4,74,75,4.7,Africa,MU,3/22/2019
+67,Kloulklubed,Palau,7.04,134.26,82.4,74,75,9.17,Oceania,PW,3/21/2019
+68,Geraldton,Canada,49.72,-86.95,33.8,59,90,10.29,North America,CA,3/22/2019
+69,Mataura,New Zealand,-46.19,168.86,71.24,67,24,4.29,Oceania,NZ,3/22/2019
+70,Luderitz,Namibia,-26.65,15.16,59.99,82,0,15.93,Africa,,3/22/2019
+71,Atuona,French Polynesia,-9.8,-139.03,81.86,100,0,15.48,Oceania,PF,3/22/2019
+72,Husavik,Canada,50.56,-96.99,42.01,56,0,5.01,North America,CA,3/22/2019
+73,Vaini,India,15.34,74.49,60.08,85,0,1.39,Asia,IN,3/22/2019
+74,Mahebourg,Mauritius,-20.41,57.7,82.4,74,75,4.7,Africa,MU,3/22/2019
+75,Acari,Brazil,-6.44,-36.64,68.36,97,24,2.39,South America,BR,3/22/2019
+76,East London,South Africa,-33.02,27.91,68.36,100,0,11.68,Africa,ZA,3/22/2019
+77,Port Augusta,Australia,-32.49,137.76,84,83,12,11.41,Oceania,AU,3/22/2019
+78,Naze,Nigeria,5.43,7.07,78.8,88,75,2.24,Africa,NG,3/22/2019
+79,Ponta Delgada,Portugal,37.73,-25.67,57.2,82,75,2.24,Europe,PT,3/22/2019
+80,Atambua,Indonesia,-9.11,124.89,83.3,94,0,6.76,Asia,ID,3/22/2019
+81,Mount Isa,Australia,-20.73,139.49,87.8,45,0,12.75,Oceania,AU,3/21/2019
+82,Robertsport,Liberia,6.75,-11.37,81.77,100,48,8.43,Africa,LR,3/22/2019
+83,Hami,China,42.84,93.51,23.72,66,8,3.4,Asia,CN,3/22/2019
+84,San Luis,Argentina,-33.3,-66.34,68,39,0,11.56,South America,AR,3/22/2019
+85,Saint-Georges,Canada,46.12,-70.67,42.01,64,92,6.76,North America,CA,3/22/2019
+86,Comodoro Rivadavia,Argentina,-45.87,-67.48,60.8,55,0,5.75,South America,AR,3/21/2019
+87,Cockburn Town,Turks and Caicos Islands,21.46,-71.14,80.96,93,0,4.97,North America,TC,3/22/2019
+88,Fort Nelson,Canada,58.81,-122.69,53.6,32,75,2.24,North America,CA,3/22/2019
+89,Aguadilla,Puerto Rico,18.43,-67.15,80.01,65,75,3.36,North America,PR,3/22/2019
+90,Butembo,Congo,0.12,29.29,57.83,90,8,1.39,Africa,CD,3/22/2019
+91,Cidreira,Brazil,-30.17,-50.22,62.24,83,0,6.31,South America,BR,3/22/2019
+92,Tautira,French Polynesia,-17.73,-149.15,84.2,74,75,11.41,Oceania,PF,3/22/2019
+93,Porangatu,Brazil,-13.44,-49.14,73.49,96,64,2.84,South America,BR,3/22/2019
+94,Talnakh,Russian Federation,69.49,88.39,20.75,94,80,3.51,Europe,RU,3/22/2019
+94,Talnakh,Russian Federation,69.49,88.39,20.75,94,80,3.51,Asia,RU,3/22/2019
+95,Verkhnyaya Inta,Russian Federation,65.99,60.32,27.5,84,88,5.86,Europe,RU,3/22/2019
+95,Verkhnyaya Inta,Russian Federation,65.99,60.32,27.5,84,88,5.86,Asia,RU,3/22/2019
+96,Upernavik,Greenland,72.79,-56.15,-14.17,100,32,1.61,North America,GL,3/22/2019
+97,Tessalit,Mali,20.2,1.01,56.48,22,0,3.74,Africa,ML,3/22/2019
+98,Roald,Norway,62.58,6.12,44.6,52,32,14.99,Europe,NO,3/22/2019
+99,Yatou,Cameroon,3.63,9.81,80.6,100,75,1.12,Africa,CM,3/22/2019
+100,Zhigansk,Russian Federation,66.77,123.37,-3.28,75,36,11.79,Europe,RU,3/22/2019
+100,Zhigansk,Russian Federation,66.77,123.37,-3.28,75,36,11.79,Asia,RU,3/22/2019
+101,Norman Wells,Canada,65.28,-126.83,35.6,64,75,12.75,North America,CA,3/22/2019
+102,Hilo,United States of America,19.71,-155.08,77,73,90,15.26,North America,US,3/22/2019
+103,Butaritari,Kiribati,3.07,172.79,81.86,100,76,8.99,Oceania,KI,3/22/2019
+104,Yar-Sale,Russian Federation,66.83,70.83,18.86,82,44,11.34,Europe,RU,3/22/2019
+104,Yar-Sale,Russian Federation,66.83,70.83,18.86,82,44,11.34,Asia,RU,3/22/2019
+105,Port Elizabeth,United States of America,39.31,-74.98,51.8,93,90,24.16,North America,US,3/22/2019
+106,Cape Town,South Africa,-33.93,18.42,66.2,68,0,24.16,Africa,ZA,3/22/2019
+107,Baker City,United States of America,44.77,-117.83,62.6,27,20,8.05,North America,US,3/22/2019
+108,Hamilton,Canada,43.26,-79.87,44.01,93,90,8.05,North America,CA,3/22/2019
+109,Thompson,Canada,55.74,-97.86,30.2,54,20,13.87,North America,CA,3/22/2019
+110,Georgetown,Guyana,6.8,-58.16,80.6,78,20,11.41,South America,GY,3/21/2019
+111,Zomin,Uzbekistan,39.96,68.4,41.99,79,20,2.73,Asia,UZ,3/22/2019
+112,Longyearbyen,Norway,78.22,15.63,19.4,85,20,8.05,Europe,NO,3/21/2019
+113,Taksimo,Russian Federation,56.36,114.84,9.59,55,24,3.4,Europe,RU,3/22/2019
+113,Taksimo,Russian Federation,56.36,114.84,9.59,55,24,3.4,Asia,RU,3/22/2019
+114,Concarneau,France,47.88,-3.92,48.2,87,0,4.7,Europe,FR,3/22/2019
+115,Jinchang,China,38.52,102.19,10.76,47,0,2.95,Asia,CN,3/22/2019
+116,Tiznit,Morocco,29.7,-9.73,55.58,93,0,4.63,Africa,MA,3/22/2019
+117,Flin Flon,Canada,54.77,-101.88,46.4,36,20,5.82,North America,CA,3/21/2019
+118,New Norfolk,Australia,-42.78,147.06,63,82,75,3.36,Oceania,AU,3/22/2019
+119,Hobart,Australia,-42.88,147.33,63,82,75,3.36,Oceania,AU,3/22/2019
+120,Provideniya,Russian Federation,64.42,-173.23,8.6,50,75,17.9,Europe,RU,3/21/2019
+120,Provideniya,Russian Federation,64.42,-173.23,8.6,50,75,17.9,Asia,RU,3/21/2019
+121,Canby,United States of America,45.26,-122.69,57.99,71,90,4.7,North America,US,3/22/2019
+122,Mogadishu,Somalia,2.04,45.34,81.77,100,8,18.84,Africa,SO,3/22/2019
+123,Serra Branca,Brazil,-7.57,-40.23,70.34,94,44,1.95,South America,BR,3/22/2019
+124,Price,United States of America,39.6,-110.81,46.99,93,75,9.17,North America,US,3/22/2019
+125,Saint George,Greece,39.45,22.34,53.01,87,20,4.7,Europe,GR,3/22/2019
+126,Rodrigues Alves,Brazil,-7.74,-72.65,80.6,88,40,2.95,South America,BR,3/21/2019
+127,Banda Aceh,Indonesia,5.56,95.32,73.22,97,12,1.95,Asia,ID,3/22/2019
+128,Tuktoyaktuk,Canada,69.44,-133.03,15.8,85,90,14.99,North America,CA,3/22/2019
+129,Quatre Cocos,Mauritius,-20.21,57.76,82.4,74,75,4.7,Africa,MU,3/22/2019
+130,Vanimo,Papua New Guinea,-2.67,141.3,83.03,98,20,17.05,Oceania,PG,3/22/2019
+131,Ulaanbaatar,Mongolia,47.92,106.92,10.4,78,20,10,Asia,MN,3/21/2019
+132,Ancud,Chile,-41.87,-73.83,55.4,100,90,8.05,South America,CL,3/21/2019
+133,Fortuna,Spain,38.18,-1.13,50,61,0,5.82,Europe,ES,3/22/2019
+134,Ponta do Sol,Brazil,-20.63,-46,66.47,97,92,7.09,South America,BR,3/22/2019
+135,Saldanha,Portugal,41.42,-6.55,32.36,86,0,3.29,Europe,PT,3/22/2019
+136,Taoudenni,Mali,22.68,-3.98,68.09,15,88,8.1,Africa,ML,3/22/2019
+137,Iskateley,Russian Federation,67.68,53.15,20.48,89,64,5.53,Europe,RU,3/22/2019
+137,Iskateley,Russian Federation,67.68,53.15,20.48,89,64,5.53,Asia,RU,3/22/2019
+138,Te Anau,New Zealand,-45.41,167.72,68.45,69,0,3.51,Oceania,NZ,3/22/2019
+139,Buraydah,Saudi Arabia,26.33,43.97,58.28,65,0,7.2,Asia,SA,3/22/2019
+140,Lebu,Ethiopia,8.96,38.73,64.4,45,40,6.93,Africa,ET,3/22/2019
+141,Palora,Ecuador,-1.7,-77.97,77,83,40,2.24,South America,EC,3/21/2019
+142,Sola,Norway,58.89,5.65,39,99,0,6.93,Europe,NO,3/22/2019
+143,Isangel,Vanuatu,-19.55,169.27,87.8,70,75,13.87,Oceania,VU,3/21/2019
+144,Coquimbo,Chile,-29.95,-71.34,57.2,82,20,6.93,South America,CL,3/21/2019
+145,College,United States of America,64.86,-147.8,53.01,34,75,3.36,North America,US,3/22/2019
+146,Srednekolymsk,Russian Federation,67.46,153.71,-4.27,66,0,3.18,Europe,RU,3/22/2019
+146,Srednekolymsk,Russian Federation,67.46,153.71,-4.27,66,0,3.18,Asia,RU,3/22/2019
+147,Itarema,Brazil,-2.92,-39.92,77.72,96,76,4.18,South America,BR,3/22/2019
+148,Khatanga,Russian Federation,71.98,102.47,-0.13,74,48,10.22,Europe,RU,3/22/2019
+148,Khatanga,Russian Federation,71.98,102.47,-0.13,74,48,10.22,Asia,RU,3/22/2019
+149,Paramonga,Peru,-10.68,-77.82,69.26,98,8,8.99,South America,PE,3/22/2019
+150,Rawson,Argentina,-43.3,-65.11,64.04,34,44,4.74,South America,AR,3/22/2019
+151,Aripuana,Brazil,-9.17,-60.63,75.38,97,76,2.06,South America,BR,3/22/2019
+152,Don Sak,Thailand,9.32,99.69,80.6,88,20,5.19,Asia,TH,3/22/2019
+153,Saint-Philippe,Canada,45.36,-73.48,42.8,75,90,16.11,North America,CA,3/22/2019
+154,Yulara,Australia,-25.24,130.99,82.4,23,0,6.93,Oceania,AU,3/21/2019
+155,Avera,United States of America,33.19,-82.53,62.6,44,40,13.87,North America,US,3/22/2019
+156,Qaanaaq,Greenland,77.48,-69.36,-21.55,89,20,7.43,North America,GL,3/22/2019
+157,Meulaboh,Indonesia,4.14,96.13,77.99,100,24,4.18,Asia,ID,3/22/2019
+158,Trincomalee,Sri Lanka,8.58,81.23,73.67,92,8,2.73,Asia,LK,3/22/2019
+159,Moussoro,Chad,13.64,16.49,72.59,53,8,2.73,Africa,TD,3/22/2019
+160,Salalah,Oman,17.01,54.1,75.2,73,0,1.12,Asia,OM,3/21/2019
+161,Linxia,China,35.6,103.21,22.91,88,76,2.95,Asia,CN,3/22/2019
+162,Yumen,China,40.29,97.04,17.51,61,8,3.62,Asia,CN,3/22/2019
+163,Ahipara,New Zealand,-35.17,173.16,74.39,71,64,8.43,Oceania,NZ,3/22/2019
+164,Fairbanks,United States of America,64.84,-147.72,53.01,34,75,3.36,North America,US,3/22/2019
+165,Verkhoyansk,Russian Federation,67.55,133.39,-17.14,48,0,2.62,Europe,RU,3/22/2019
+165,Verkhoyansk,Russian Federation,67.55,133.39,-17.14,48,0,2.62,Asia,RU,3/22/2019
+166,Touros,Brazil,-5.2,-35.46,80.6,88,0,2.24,South America,BR,3/21/2019
+167,Chernyanka,Russian Federation,50.94,37.8,29.48,90,80,7.2,Europe,RU,3/22/2019
+167,Chernyanka,Russian Federation,50.94,37.8,29.48,90,80,7.2,Asia,RU,3/22/2019
+168,Necochea,Argentina,-38.55,-58.74,55,74,56,3,South America,AR,3/22/2019
+169,Kruisfontein,South Africa,-34,24.73,59.9,86,0,8.21,Africa,ZA,3/22/2019
+170,Margate,Australia,-43.03,147.26,63,82,75,3.36,Oceania,AU,3/22/2019
+171,Kaitangata,New Zealand,-46.28,169.85,68.99,83,76,4.07,Oceania,NZ,3/22/2019
+172,Port Alfred,South Africa,-33.59,26.89,64,90,12,3,Africa,ZA,3/22/2019
+173,Mao,Dominican Republic,19.55,-71.08,80.6,74,40,11.41,North America,DO,3/22/2019
+174,Puerto Ayora,Ecuador,-0.74,-90.35,82.4,78,20,12.75,South America,EC,3/22/2019
+175,Marmande,France,44.5,0.16,44.01,70,0,3.36,Europe,FR,3/22/2019
+176,Aswan,Egypt,24.09,32.9,73.4,15,0,4.7,Africa,EG,3/21/2019
+177,Ust-Tsilma,Russian Federation,65.44,52.15,26.69,94,88,3.51,Europe,RU,3/22/2019
+177,Ust-Tsilma,Russian Federation,65.44,52.15,26.69,94,88,3.51,Asia,RU,3/22/2019
+178,Leningradskiy,Russian Federation,69.38,178.42,-10.21,100,12,4.07,Europe,RU,3/22/2019
+178,Leningradskiy,Russian Federation,69.38,178.42,-10.21,100,12,4.07,Asia,RU,3/22/2019
+179,Vardo,United States of America,39.62,-77.74,44.01,86,90,11.41,North America,US,3/22/2019
+180,Alice Springs,Australia,-23.7,133.88,84.2,21,0,8.05,Oceania,AU,3/21/2019
+181,General Pico,Argentina,-35.66,-63.75,60.8,61,36,12.57,South America,AR,3/22/2019
+182,La Sarre,Canada,48.8,-79.2,37.04,93,92,8.66,North America,CA,3/22/2019
+183,Eston,Canada,51.15,-108.75,50,76,5,9.17,North America,CA,3/22/2019
+184,Haines Junction,Canada,60.75,-137.51,44.42,52,0,3.18,North America,CA,3/22/2019
+185,Port Hawkesbury,Canada,45.62,-61.36,34,86,75,4.7,North America,CA,3/22/2019
+186,Pisco,Peru,-13.71,-76.2,71.6,30,0,21.92,South America,PE,3/21/2019
+187,Aksarka,Russian Federation,66.56,67.8,21.92,84,76,10.45,Europe,RU,3/22/2019
+187,Aksarka,Russian Federation,66.56,67.8,21.92,84,76,10.45,Asia,RU,3/22/2019
+188,Voloshka,Russian Federation,61.33,40.09,27.5,93,68,8.32,Europe,RU,3/22/2019
+188,Voloshka,Russian Federation,61.33,40.09,27.5,93,68,8.32,Asia,RU,3/22/2019
+189,Carnarvon,South Africa,-30.97,22.13,53.51,61,0,10,Africa,ZA,3/22/2019
+190,Xinxiang,China,35.3,113.88,39.92,54,76,3.18,Asia,CN,3/22/2019
+191,Port Hedland,Australia,-20.31,118.58,86,74,40,20.8,Oceania,AU,3/21/2019
+192,Houston,United States of America,29.76,-95.37,75.99,22,1,4.7,North America,US,3/22/2019
+193,Cherskiy,Russian Federation,68.75,161.3,-7.51,62,0,2.62,Europe,RU,3/22/2019
+193,Cherskiy,Russian Federation,68.75,161.3,-7.51,62,0,2.62,Asia,RU,3/22/2019
+194,Okato,New Zealand,-39.19,173.88,68.9,92,8,7.43,Oceania,NZ,3/22/2019
+195,Guerrero Negro,Mexico,27.97,-114.04,64.67,58,68,17.27,North America,MX,3/22/2019
+196,Lompoc,United States of America,34.64,-120.46,60.01,76,75,9.17,North America,US,3/22/2019
+197,Aurora,United States of America,41.76,-88.32,46,65,1,9.17,North America,US,3/22/2019
+198,Bethel,United States of America,60.79,-161.76,44.6,65,75,12.75,North America,US,3/21/2019
+199,Yaroslavskiy,Russian Federation,44.19,132.23,23.9,77,32,10.45,Europe,RU,3/22/2019
+199,Yaroslavskiy,Russian Federation,44.19,132.23,23.9,77,32,10.45,Asia,RU,3/22/2019
+200,Gizo,Israel,31.8,34.94,59,87,40,2.24,Asia,IL,3/22/2019
+201,Roblin,Canada,51.23,-101.35,33.89,91,0,3.85,North America,CA,3/22/2019
+202,Souillac,France,45.6,-0.6,45,60,0,2.95,Europe,FR,3/22/2019
+203,Metro,Indonesia,-5.11,105.31,77.18,100,24,4.85,Asia,ID,3/22/2019
+204,Deputatskiy,Russian Federation,69.3,139.9,-17.86,48,0,2.73,Europe,RU,3/22/2019
+204,Deputatskiy,Russian Federation,69.3,139.9,-17.86,48,0,2.73,Asia,RU,3/22/2019
+205,Jalu,Libyan Arab Jamahiriya,29.03,21.55,72.59,43,88,15.03,Africa,LY,3/22/2019
+206,Karaton,Indonesia,-6.34,106.1,84,78,20,5.82,Asia,ID,3/22/2019
+207,Misratah,Libyan Arab Jamahiriya,32.38,15.09,55.04,100,92,6.64,Africa,LY,3/22/2019
+208,Pamekasan,Indonesia,-7.16,113.47,80.96,100,36,9.66,Asia,ID,3/22/2019
+209,Ostrovnoy,Russian Federation,68.05,39.51,15.44,82,8,7.54,Europe,RU,3/22/2019
+209,Ostrovnoy,Russian Federation,68.05,39.51,15.44,82,8,7.54,Asia,RU,3/22/2019
+210,Havre-Saint-Pierre,Canada,50.23,-63.6,30.2,86,90,6.93,North America,CA,3/22/2019
+211,Jiangyou,China,31.78,104.73,46.94,81,76,3.74,Asia,CN,3/22/2019
+212,Ingham,Australia,-18.65,146.16,81.77,92,92,10.56,Oceania,AU,3/22/2019
+213,Lambarene,Gabon,-0.7,10.22,72.86,100,88,2.62,Africa,GA,3/22/2019
+214,Praia da Vitoria,Portugal,38.73,-27.07,59,87,40,7.76,Europe,PT,3/22/2019
+215,Saint Anthony,United States of America,43.97,-111.68,57.2,24,1,9.17,North America,US,3/22/2019
+216,Saint-Augustin,France,44.83,-0.61,45,86,0,1.61,Europe,FR,3/22/2019
+217,Gushikawa,Japan,26.35,127.87,71.6,78,75,14.99,Asia,JP,3/22/2019
+218,Erdenet,Mongolia,49.03,104.04,4.73,67,8,2.62,Asia,MN,3/22/2019
+219,Severo-Kurilsk,Russian Federation,50.68,156.12,24.8,100,48,10.56,Europe,RU,3/22/2019
+219,Severo-Kurilsk,Russian Federation,50.68,156.12,24.8,100,48,10.56,Asia,RU,3/22/2019
+220,Namibe,Angola,-15.19,12.15,77.63,100,0,0.27,Africa,AO,3/22/2019
+221,Marathon,Canada,48.72,-86.38,33.17,81,56,9.89,North America,CA,3/22/2019
+222,Quirinopolis,Brazil,-18.45,-50.45,73.94,92,20,6.08,South America,BR,3/22/2019
+223,Constitucion,Mexico,23.99,-104.67,77,7,20,11.41,North America,MX,3/22/2019
+224,Kaeo,New Zealand,-35.1,173.78,72,74,64,5.01,Oceania,NZ,3/22/2019
+225,Lamar,United States of America,38.09,-102.62,63,18,1,12.75,North America,US,3/22/2019
+226,Maldonado,Uruguay,-34.91,-54.96,55.4,71,20,3.36,South America,UY,3/21/2019
+227,Riyadh,Saudi Arabia,24.63,46.72,60.8,31,0,5.82,Asia,SA,3/22/2019
+228,Sao Jose da Coroa Grande,Brazil,-8.9,-35.15,76.19,97,12,4.74,South America,BR,3/22/2019
+229,Tongren,China,27.72,109.18,42.62,94,92,9.66,Asia,CN,3/22/2019
+230,Cassilandia,Brazil,-19.11,-51.73,71.69,92,100,6.98,South America,BR,3/22/2019
+231,Antalaha,Madagascar,-14.9,50.28,77.72,93,44,8.66,Africa,MG,3/22/2019
+232,Partizanskoye,Ukraine,44.83,34.08,32.54,84,48,5.19,Europe,UA,3/22/2019
+233,Sitka,United States of America,37.17,-99.65,60.01,39,36,3,North America,US,3/22/2019
+234,Faanui,French Polynesia,-16.48,-151.75,84.65,100,80,8.43,Oceania,PF,3/22/2019
+235,Krasnogvardeyskoye,Russian Federation,45.84,41.51,42.62,93,68,7.99,Europe,RU,3/22/2019
+235,Krasnogvardeyskoye,Russian Federation,45.84,41.51,42.62,93,68,7.99,Asia,RU,3/22/2019
+236,Komsomolskiy,Russian Federation,67.55,63.78,26.06,92,80,4.63,Europe,RU,3/22/2019
+236,Komsomolskiy,Russian Federation,67.55,63.78,26.06,92,80,4.63,Asia,RU,3/22/2019
+237,North Bend,United States of America,43.41,-124.22,64,71,1,12.75,North America,US,3/22/2019
+238,Codrington,Australia,-28.95,153.24,84.99,69,90,3.4,Oceania,AU,3/22/2019
+239,Sao Filipe,Cape Verde,14.9,-24.5,70.16,99,12,14.47,Africa,CV,3/22/2019
+240,Leopold,United States of America,38.1,-86.58,45,81,90,5.82,North America,US,3/22/2019
+241,Amga,Russian Federation,60.89,131.98,-8.41,62,0,2.62,Europe,RU,3/22/2019
+241,Amga,Russian Federation,60.89,131.98,-8.41,62,0,2.62,Asia,RU,3/22/2019
+242,Nyaunglebin,Myanmar,17.95,96.73,66.74,81,0,2.06,Asia,MM,3/22/2019
+243,Morant Bay,Jamaica,17.88,-76.41,80.6,65,75,2.24,North America,JM,3/22/2019
+244,Sabha,Libyan Arab Jamahiriya,27.03,14.43,60.44,50,0,11.12,Africa,LY,3/22/2019
+245,Khandyga,Russian Federation,62.65,135.58,-7.15,59,0,3.51,Europe,RU,3/22/2019
+245,Khandyga,Russian Federation,62.65,135.58,-7.15,59,0,3.51,Asia,RU,3/22/2019
+246,Batemans Bay,Australia,-35.71,150.18,79,73,56,1.99,Oceania,AU,3/22/2019
+247,Grindavik,Iceland,63.84,-22.43,35.01,100,90,12.75,Europe,IS,3/22/2019
+248,Iqaluit,Canada,63.75,-68.52,-9.01,63,40,3.36,North America,CA,3/22/2019
+249,Vani,Georgia,42.09,42.51,44.6,100,24,1.12,Europe,GE,3/21/2019
+249,Vani,Georgia,42.09,42.51,44.6,100,24,1.12,Asia,GE,3/21/2019
+250,Mazatlan,Mexico,23.22,-106.42,84.2,25,5,11.41,North America,MX,3/22/2019
+251,Acapulco,Mexico,16.86,-99.88,82.4,74,20,11.41,North America,MX,3/21/2019
+252,Kahului,United States of America,20.89,-156.47,84.2,39,20,16.11,North America,US,3/22/2019
+253,Srisailam,India,16.07,78.87,65.48,81,8,2.62,Asia,IN,3/22/2019
+254,Byron Bay,Australia,-28.65,153.62,84.99,69,90,5.08,Oceania,AU,3/22/2019
+255,Petropavlovsk-Kamchatskiy,Russian Federation,53.05,158.65,17.6,44,40,2.24,Europe,RU,3/21/2019
+255,Petropavlovsk-Kamchatskiy,Russian Federation,53.05,158.65,17.6,44,40,2.24,Asia,RU,3/21/2019
+256,Hajnowka,Poland,52.74,23.58,51.01,83,48,4,Europe,PL,3/22/2019
+257,Thinadhoo,Maldives,0.53,72.93,84.83,100,76,7.99,Asia,MV,3/22/2019
+258,Dikson,Russian Federation,73.51,80.55,3.02,93,12,13.91,Europe,RU,3/22/2019
+258,Dikson,Russian Federation,73.51,80.55,3.02,93,12,13.91,Asia,RU,3/22/2019
+259,Gura Foii,Romania,44.75,25.29,46,93,0,8.05,Europe,RO,3/22/2019
+260,Segezha,Russian Federation,63.74,34.31,31.01,91,80,6.2,Europe,RU,3/22/2019
+260,Segezha,Russian Federation,63.74,34.31,31.01,91,80,6.2,Asia,RU,3/22/2019
+261,Phuthaditjhaba,South Africa,-28.53,28.82,49.55,94,88,1.95,Africa,ZA,3/22/2019
+262,San Quintin,Philippines,17.54,120.52,76.91,65,0,4.18,Asia,PH,3/22/2019
+263,Seoul,Korea,37.57,126.98,33.8,80,90,1.12,Asia,KR,3/21/2019
+264,Port Blair,India,11.67,92.75,82.31,100,12,12.12,Asia,IN,3/22/2019
+265,Ucluelet,Canada,48.94,-125.55,61,87,90,9.17,North America,CA,3/22/2019
+266,Nuuk,Greenland,64.17,-51.74,-0.01,84,90,4.7,North America,GL,3/22/2019
+267,Dong Hoi,Vietnam,17.48,106.6,78.44,92,0,3.62,Asia,VN,3/22/2019
+268,Lokosovo,Russian Federation,61.13,74.84,29.21,95,88,7.76,Europe,RU,3/22/2019
+268,Lokosovo,Russian Federation,61.13,74.84,29.21,95,88,7.76,Asia,RU,3/22/2019
+269,Abaza,Russian Federation,52.65,90.1,7.79,63,0,2.28,Europe,RU,3/22/2019
+269,Abaza,Russian Federation,52.65,90.1,7.79,63,0,2.28,Asia,RU,3/22/2019
+270,Ust-Nera,Russian Federation,64.57,143.24,-11.56,66,8,2.62,Europe,RU,3/22/2019
+270,Ust-Nera,Russian Federation,64.57,143.24,-11.56,66,8,2.62,Asia,RU,3/22/2019
+271,Tiksi,Russian Federation,71.64,128.87,3.2,63,0,17.05,Europe,RU,3/22/2019
+271,Tiksi,Russian Federation,71.64,128.87,3.2,63,0,17.05,Asia,RU,3/22/2019
+272,Pevek,Russian Federation,69.7,170.27,-5.62,100,68,2.17,Europe,RU,3/22/2019
+272,Pevek,Russian Federation,69.7,170.27,-5.62,100,68,2.17,Asia,RU,3/22/2019
+273,Clyde River,Canada,70.47,-68.59,-22.01,67,75,8.05,North America,CA,3/22/2019
+274,Mackay,Canada,53.65,-115.58,57.2,37,5,9.17,North America,CA,3/22/2019
+275,Berdigestyakh,Russian Federation,62.1,126.7,-8.77,64,0,3.29,Europe,RU,3/22/2019
+275,Berdigestyakh,Russian Federation,62.1,126.7,-8.77,64,0,3.29,Asia,RU,3/22/2019
+276,Richards Bay,South Africa,-28.77,32.06,68.99,100,92,6.64,Africa,ZA,3/22/2019
+277,Shipunovo,Russian Federation,52.22,82.26,2.57,56,0,2.95,Europe,RU,3/22/2019
+277,Shipunovo,Russian Federation,52.22,82.26,2.57,56,0,2.95,Asia,RU,3/22/2019
+278,Muros,Spain,42.77,-9.06,53.01,81,0,4.7,Europe,ES,3/22/2019
+279,Yaan,Nigeria,7.38,8.57,75.92,86,36,9.55,Africa,NG,3/22/2019
+280,Chuy,Uruguay,-33.69,-53.46,61.34,92,0,8.77,South America,UY,3/22/2019
+281,Bondo,Congo,3.81,23.69,78.71,73,12,2.95,Africa,CD,3/22/2019
+282,Camocim,Brazil,-2.9,-40.84,75.11,100,92,4.18,South America,BR,3/22/2019
+283,Yarada,India,17.65,83.27,77,88,20,2.24,Asia,IN,3/21/2019
+284,San Policarpo,Philippines,12.18,125.51,77.27,99,88,9.22,Asia,PH,3/22/2019
+285,Glenn Heights,United States of America,32.55,-96.86,73.99,24,1,6.93,North America,US,3/22/2019
+286,Pangody,Russian Federation,65.85,74.49,24.8,91,88,8.43,Europe,RU,3/22/2019
+286,Pangody,Russian Federation,65.85,74.49,24.8,91,88,8.43,Asia,RU,3/22/2019
+287,Luau,Congo,-10.7,22.23,70.07,86,64,2.17,Africa,CD,3/22/2019
+288,Bad Langensalza,Germany,51.11,10.65,46.99,75,0,2.24,Europe,DE,3/22/2019
+289,Morden,Canada,49.19,-98.1,41,65,1,8.05,North America,CA,3/22/2019
+290,Nsanje,Mozambique,-16.92,35.26,73.94,93,48,3.06,Africa,MZ,3/22/2019
+291,Ler,Norway,63.2,10.3,39,69,0,20.8,Europe,NO,3/22/2019
+292,Vila Franca do Campo,Portugal,37.72,-25.43,57.2,82,75,2.24,Europe,PT,3/22/2019
+293,Middlebury,United States of America,44.01,-73.17,42.01,93,90,5.82,North America,US,3/22/2019
+294,Mayor Pablo Lagerenza,Paraguay,-19.93,-60.77,67.37,87,44,9.78,South America,PY,3/22/2019
+295,Marienburg,Germany,52.12,9.98,44.01,93,20,2.73,Europe,DE,3/22/2019
+296,Adrar,Algeria,27.87,-0.29,59,30,0,13.87,Africa,DZ,3/22/2019
+297,Kutina,Croatia,45.48,16.78,36,80,0,3.36,Europe,HR,3/22/2019
+298,Bridlington,United Kingdom of Great Britain & Northern Ireland,54.08,-0.19,54,87,56,3.36,Europe,GB,3/22/2019
+299,Ponerihouen,New Caledonia,-21.08,165.4,79.61,100,88,15.26,Oceania,NC,3/22/2019
+300,Bubaque,Guinea-Bissau,11.28,-15.83,76.01,100,0,14.7,Africa,GW,3/22/2019
+301,Mbandaka,Congo,0.05,18.26,71.33,100,68,4.18,Africa,CD,3/22/2019
+302,Dire,Ethiopia,9.18,38.92,64.4,45,40,6.93,Africa,ET,3/22/2019
+303,Ous,Russian Federation,60.91,61.52,18.32,74,0,3.4,Europe,RU,3/22/2019
+303,Ous,Russian Federation,60.91,61.52,18.32,74,0,3.4,Asia,RU,3/22/2019
+304,Kununurra,Australia,-15.77,128.74,89.6,55,0,8.05,Oceania,AU,3/21/2019
+305,Aksaray,Turkey,38.37,34.03,37.4,59,0,6.93,Europe,TR,3/21/2019
+305,Aksaray,Turkey,38.37,34.03,37.4,59,0,6.93,Asia,TR,3/21/2019
+306,Mosetse,Botswana,-20.64,26.64,78.89,38,0,12.35,Africa,BW,3/22/2019
+307,Half Moon Bay,United States of America,37.46,-122.43,63,76,1,11.41,North America,US,3/22/2019
+308,Gweta,Botswana,-20.21,25.26,81.32,33,48,12.8,Africa,BW,3/22/2019
+309,Ilhabela,Brazil,-23.78,-45.36,73.67,100,92,14.25,South America,BR,3/22/2019
+310,Paradise,United States of America,36.12,-115.17,62.6,21,20,13.87,North America,US,3/22/2019
+311,Conde,Brazil,-11.81,-37.61,83.39,82,24,11.23,South America,BR,3/22/2019
+312,Laguna,Mexico,27.52,-110.01,77,29,40,14.99,North America,MX,3/21/2019
+313,Rocha,Uruguay,-34.48,-54.34,56.39,69,0,6.98,South America,UY,3/22/2019
+314,Evinayong,Equatorial Guinea,1.44,10.55,70.16,96,80,3.06,Africa,GQ,3/22/2019
+315,Carutapera,Brazil,-1.2,-46.02,77.27,98,76,3.74,South America,BR,3/22/2019
+316,Mananjary,Madagascar,-19.16,46.8,58.37,94,32,2.62,Africa,MG,3/22/2019
+317,Lavrentiya,Russian Federation,65.58,-170.99,5.36,100,80,37.96,Europe,RU,3/22/2019
+317,Lavrentiya,Russian Federation,65.58,-170.99,5.36,100,80,37.96,Asia,RU,3/22/2019
+318,Brae,United Kingdom of Great Britain & Northern Ireland,60.4,-1.35,46.4,70,92,21.92,Europe,GB,3/21/2019
+319,Ambanja,Madagascar,-13.68,48.45,72.32,98,88,2.06,Africa,MG,3/22/2019
+320,Chapais,Canada,49.78,-74.86,33.8,87,90,12.75,North America,CA,3/22/2019
+321,Voh,New Caledonia,-20.95,164.69,82.04,89,88,11.01,Oceania,NC,3/22/2019
+322,Victoria,Brunei Darussalam,5.28,115.24,80.6,88,75,2.24,Asia,BN,3/21/2019
+323,Clearwater,United States of America,27.97,-82.8,66.99,59,1,9.17,North America,US,3/22/2019
+324,Waverly,United States of America,37.04,-77.1,46.99,81,90,8.05,North America,US,3/22/2019
+325,Katsuura,Japan,33.93,134.5,55,66,75,18.34,Asia,JP,3/22/2019
+326,Berekum,Ghana,7.45,-2.58,70.61,96,64,4.29,Africa,GH,3/22/2019
+327,Kushima,Japan,31.5,131.29,59,62,75,14.99,Asia,JP,3/22/2019
+328,Igrim,Russian Federation,63.19,64.42,24.26,87,0,5.97,Europe,RU,3/22/2019
+328,Igrim,Russian Federation,63.19,64.42,24.26,87,0,5.97,Asia,RU,3/22/2019
+329,Tateyama,Japan,36.66,137.31,51.01,81,75,8.05,Asia,JP,3/22/2019
+330,Ketchikan,United States of America,55.34,-131.65,51.8,62,40,11.41,North America,US,3/22/2019
+331,Erie,United States of America,42.13,-80.09,41,93,90,5.82,North America,US,3/22/2019
+332,Katobu,Indonesia,-4.94,122.53,81.59,100,12,2.95,Asia,ID,3/22/2019
+333,Horsham,Australia,-36.71,142.2,72.86,78,20,5.86,Oceania,AU,3/22/2019
+334,Trinidad,Uruguay,-33.52,-56.9,57.47,64,36,8.77,South America,UY,3/22/2019
+335,Padang,Indonesia,-0.92,100.36,75.2,94,40,1.12,Asia,ID,3/21/2019
+336,Esperance,Trinidad and Tobago,10.24,-61.45,80.6,69,20,6.93,North America,TT,3/22/2019
+337,Vao,Estonia,59.1,26.19,34.79,99,68,14.58,Europe,EE,3/22/2019
+338,Jining,China,35.41,116.58,48.99,28,64,7.2,Asia,CN,3/22/2019
+339,Sangar,Russian Federation,63.92,127.47,-12.55,58,0,1.95,Europe,RU,3/22/2019
+339,Sangar,Russian Federation,63.92,127.47,-12.55,58,0,1.95,Asia,RU,3/22/2019
+340,Bowen,Australia,-20.01,148.25,84,88,64,2.24,Oceania,AU,3/22/2019
+341,Eureka,United States of America,40.8,-124.16,59,71,1,6.93,North America,US,3/22/2019
+342,Zabol,Iran,31.03,61.49,57.2,50,0,11.41,Asia,IR,3/22/2019
+343,Sao Joao da Barra,Brazil,-21.64,-41.05,73.4,94,90,11.41,South America,BR,3/21/2019
+344,Abilene,United States of America,32.45,-99.73,69.8,26,1,9.17,North America,US,3/22/2019
+345,Shenzhen,China,22.54,114.05,78.01,83,40,8.05,Asia,CN,3/22/2019
+346,San Felipe,Chile,-32.75,-70.73,72,28,0,1.01,South America,CL,3/22/2019
+347,Faya,Saudi Arabia,18.39,42.45,60.8,58,0,5.82,Asia,SA,3/22/2019
+348,Panama City,United States of America,30.16,-85.65,64.4,44,1,6.93,North America,US,3/22/2019
+349,Sur,Oman,22.57,59.53,72.32,93,8,8.88,Asia,OM,3/22/2019
+350,Loandjili,Congo,-4.77,11.87,84.2,83,40,10.29,Africa,CG,3/22/2019
+351,Altamont,Canada,49.4,-98.5,42.01,65,1,8.05,North America,CA,3/22/2019
+352,Benguela,Angola,-12.58,13.4,79.34,100,8,5.19,Africa,AO,3/22/2019
+353,Noumea,New Caledonia,-22.28,166.46,87.8,62,0,3.36,Oceania,NC,3/21/2019
+354,Ha Giang,Vietnam,22.83,104.99,61.7,76,0,1.72,Asia,VN,3/22/2019
+355,Hay River,Canada,60.82,-115.79,53.6,37,40,12.75,North America,CA,3/22/2019
+356,Piacabucu,Brazil,-10.41,-36.43,73.76,98,24,6.31,South America,BR,3/22/2019
+357,Havoysund,Norway,71,24.66,33.8,69,75,39.15,Europe,NO,3/21/2019
+358,San Juan,Puerto Rico,18.47,-66.12,80.6,57,1,3.36,North America,PR,3/22/2019
+359,Daraitan,Philippines,14.6,121.43,84,69,20,6.93,Asia,PH,3/22/2019
+360,Vostok,Russian Federation,46.45,135.83,17.24,69,80,4.41,Europe,RU,3/22/2019
+360,Vostok,Russian Federation,46.45,135.83,17.24,69,80,4.41,Asia,RU,3/22/2019
+361,Belyy Yar,Russian Federation,53.6,91.39,12.2,85,0,2.24,Europe,RU,3/21/2019
+361,Belyy Yar,Russian Federation,53.6,91.39,12.2,85,0,2.24,Asia,RU,3/21/2019
+362,Rabo de Peixe,Portugal,37.8,-25.58,57.2,82,75,2.24,Europe,PT,3/22/2019
+363,Umm Kaddadah,Sudan,13.6,26.69,66.38,18,0,8.77,Africa,SD,3/22/2019
+364,Kasongo-Lunda,Congo,-6.48,16.82,70.07,90,32,2.17,Africa,CD,3/22/2019
+365,Samarai,Papua New Guinea,-10.62,150.67,80.06,100,76,9.78,Oceania,PG,3/22/2019
+366,Norfolk,United States of America,36.85,-76.29,50,87,90,19.46,North America,US,3/22/2019
+367,Walvis Bay,Namibia,-22.95,14.51,61,87,0,11.41,Africa,,3/22/2019
+368,Natal,Brazil,-5.81,-35.21,82.4,78,20,5.82,South America,BR,3/21/2019
+369,Zaozhuang,China,34.86,117.55,37.49,56,0,5.75,Asia,CN,3/22/2019
+370,Nome,United States of America,30.04,-94.42,73,30,1,5.82,North America,US,3/22/2019
+371,Tocopilla,Chile,-22.09,-70.2,63.95,97,0,3.4,South America,CL,3/22/2019
+372,Pemberton,Australia,-34.44,116.03,64.99,95,88,4,Oceania,AU,3/22/2019
+373,Plattsburgh,United States of America,44.69,-73.46,42.8,80,90,18.34,North America,US,3/22/2019
+374,Vila Velha,Brazil,-3.71,-38.6,82.4,78,40,3.36,South America,BR,3/22/2019
+375,Flinders,Australia,-34.58,150.85,78.01,83,75,1.12,Oceania,AU,3/22/2019
+376,Taltal,Chile,-25.41,-70.49,62.24,87,0,2.39,South America,CL,3/22/2019
+377,San Alberto,Paraguay,-24.98,-54.91,69.8,83,0,6.93,South America,PY,3/21/2019
+378,Ayr,United Kingdom of Great Britain & Northern Ireland,55.46,-4.63,50,87,75,11.41,Europe,GB,3/22/2019
+379,Cap Malheureux,Mauritius,-19.98,57.61,82.4,74,75,4.7,Africa,MU,3/22/2019
+380,Belen,Turkey,36.49,36.19,55.99,93,0,4.7,Europe,TR,3/22/2019
+380,Belen,Turkey,36.49,36.19,55.99,93,0,4.7,Asia,TR,3/22/2019
+381,Shar,Nigeria,7.3,8.73,78.08,81,88,12.24,Africa,NG,3/22/2019
+382,Antsohihy,Madagascar,-14.88,47.99,73.04,100,56,1.72,Africa,MG,3/22/2019
+383,Cairns,Australia,-16.92,145.77,78.01,78,75,10.29,Oceania,AU,3/22/2019
+384,Jiwani,Pakistan,25.05,61.74,67.37,94,68,0.49,Asia,PK,3/22/2019
+385,Platteville,United States of America,42.73,-90.48,48.2,70,1,12.75,North America,US,3/22/2019
+386,Klaksvik,Faroe Islands,62.23,-6.59,42.8,81,92,27.51,Europe,FO,3/22/2019
+387,Tornio,Finland,61.12,27.27,37.4,59,0,12.75,Europe,FI,3/22/2019
+388,Shimoda,Japan,34.7,138.93,66.2,72,75,9.17,Asia,JP,3/22/2019
+389,Ayagoz,Kazakhstan,47.96,80.43,3.74,58,0,2.95,Europe,KZ,3/22/2019
+389,Ayagoz,Kazakhstan,47.96,80.43,3.74,58,0,2.95,Asia,KZ,3/22/2019
+390,Mahajanga,Madagascar,-15.72,46.32,78.8,88,40,4.7,Africa,MG,3/22/2019
+391,Tupiza,Bolivia,-21.44,-65.72,46.58,48,44,2.39,South America,BO,3/22/2019
+392,Vestmannaeyjar,Iceland,63.44,-20.27,38.21,97,76,17.94,Europe,IS,3/22/2019
+393,Mount Gambier,Australia,-37.83,140.78,66.2,93,90,11.41,Oceania,AU,3/21/2019
+394,Luanda,Angola,-8.83,13.24,82.4,83,75,5.82,Africa,AO,3/22/2019
+395,Hambantota,Sri Lanka,6.12,81.12,79.16,100,0,7.31,Asia,LK,3/22/2019
+396,Penzance,United Kingdom of Great Britain & Northern Ireland,50.12,-5.53,53.01,93,90,5.82,Europe,GB,3/22/2019
+397,Limbang,Brunei Darussalam,4.75,115.01,80.6,94,75,4.7,Asia,BN,3/21/2019
+398,Rio Grande,Brazil,-32.03,-52.1,65.66,93,20,8.99,South America,BR,3/22/2019
+399,Chernyshevskiy,Russian Federation,63.01,112.47,11.39,80,76,9.22,Europe,RU,3/22/2019
+399,Chernyshevskiy,Russian Federation,63.01,112.47,11.39,80,76,9.22,Asia,RU,3/22/2019
+400,Vestmanna,Faroe Islands,62.16,-7.17,42.8,81,92,27.51,Europe,FO,3/22/2019
+401,Mehamn,Norway,71.03,27.85,32,82,56,19.73,Europe,NO,3/22/2019
+402,Gigmoto,Philippines,13.78,124.39,79.88,95,8,7.99,Asia,PH,3/22/2019
+403,Hovd,Norway,63.83,10.7,39.99,69,0,20.8,Europe,NO,3/22/2019
+404,Kuching,Malaysia,1.56,110.34,77,94,75,2.24,Asia,MY,3/21/2019
+405,Alyangula,Australia,-13.85,136.42,84.2,83,75,11.41,Oceania,AU,3/21/2019
+406,Kuryk,Kazakhstan,43.18,51.68,40.37,94,0,4.18,Europe,KZ,3/22/2019
+406,Kuryk,Kazakhstan,43.18,51.68,40.37,94,0,4.18,Asia,KZ,3/22/2019
+407,Los Andes,Chile,-32.83,-70.6,77,23,0,12.75,South America,CL,3/22/2019
+408,Harnosand,Sweden,62.63,17.94,36,64,0,8.05,Europe,SE,3/22/2019
+409,Gravdal,Norway,59.79,5.78,39,100,0,10.29,Europe,NO,3/22/2019
+410,Bima,Indonesia,-8.45,118.73,81.14,88,64,5.19,Asia,ID,3/22/2019
+411,Tayu,Japan,35.06,136.67,66,71,75,31.09,Asia,JP,3/22/2019
+412,Aqtobe,Kazakhstan,50.28,57.21,24.8,85,0,4.47,Europe,KZ,3/21/2019
+412,Aqtobe,Kazakhstan,50.28,57.21,24.8,85,0,4.47,Asia,KZ,3/21/2019
+413,Orlik,Russian Federation,52.51,99.83,-7.15,60,8,1.95,Europe,RU,3/22/2019
+413,Orlik,Russian Federation,52.51,99.83,-7.15,60,8,1.95,Asia,RU,3/22/2019
+414,Fonte Boa,Brazil,-2.51,-66.09,78.44,93,36,2.62,South America,BR,3/22/2019
+415,San Cristobal,Ecuador,-0.39,-78.55,59,87,40,9.17,South America,EC,3/22/2019
+416,Lazaro Cardenas,Mexico,28.39,-105.62,80.6,19,20,12.75,North America,MX,3/22/2019
+417,Pindushi,Russian Federation,62.92,34.58,29.57,91,92,7.76,Europe,RU,3/22/2019
+417,Pindushi,Russian Federation,62.92,34.58,29.57,91,92,7.76,Asia,RU,3/22/2019
+418,Coihaique,Chile,-45.58,-72.07,55.4,66,75,3.36,South America,CL,3/22/2019
+419,Mandalgovi,Mongolia,45.76,106.27,12.47,62,0,10.89,Asia,MN,3/22/2019
+420,Garowe,Somalia,8.41,48.48,61.25,93,0,6.2,Africa,SO,3/22/2019
+421,Aleksin,Russian Federation,54.5,37.07,32,84,88,4.47,Europe,RU,3/21/2019
+421,Aleksin,Russian Federation,54.5,37.07,32,84,88,4.47,Asia,RU,3/21/2019
+422,Jablah,Syrian Arab Republic,35.36,35.93,53.6,71,0,4.7,Asia,SY,3/22/2019
+423,Zhezkazgan,Kazakhstan,47.8,67.71,22.01,65,68,6.64,Europe,KZ,3/22/2019
+423,Zhezkazgan,Kazakhstan,47.8,67.71,22.01,65,68,6.64,Asia,KZ,3/22/2019
+424,Williams Lake,Canada,52.13,-122.14,60.8,17,40,2.24,North America,CA,3/22/2019
+425,Freeport,Bahamas,26.54,-78.7,66.2,88,20,3.36,North America,BS,3/22/2019
+426,Honningsvag,Norway,70.98,25.97,33.44,92,48,21.3,Europe,NO,3/22/2019
+427,Winslow,United Kingdom of Great Britain & Northern Ireland,51.94,-0.88,53.01,87,90,3.36,Europe,GB,3/22/2019
+428,Vale,Georgia,41.62,42.88,19.67,91,68,2.28,Europe,GE,3/22/2019
+428,Vale,Georgia,41.62,42.88,19.67,91,68,2.28,Asia,GE,3/22/2019
+429,Seddon,New Zealand,-41.67,174.07,75.99,71,0,15.01,Oceania,NZ,3/22/2019
+430,Consuegra,Spain,39.46,-3.61,42.01,62,0,5.01,Europe,ES,3/22/2019
+431,Santa Isabel,Colombia,4.71,-75.1,73.4,100,90,4.7,South America,CO,3/22/2019
+432,Obo,Central African Republic,5.39,26.49,68.99,79,8,2.84,Africa,CF,3/22/2019
+433,Le Port,France,42.87,1.37,39,66,0,1.83,Europe,FR,3/22/2019
+434,Griffith,Australia,-34.29,146.06,80.6,53,90,8.05,Oceania,AU,3/21/2019
+435,Pangnirtung,Canada,66.15,-65.72,-23.98,34,8,2.17,North America,CA,3/22/2019
+436,Mildura,Australia,-34.18,142.16,90,41,68,9.17,Oceania,AU,3/22/2019
+437,Nurota,Uzbekistan,40.56,65.69,41,93,20,4.7,Asia,UZ,3/21/2019
+438,Pechenga,Russian Federation,58.89,41.46,29.3,96,56,8.32,Europe,RU,3/22/2019
+438,Pechenga,Russian Federation,58.89,41.46,29.3,96,56,8.32,Asia,RU,3/22/2019
+439,Krasnorechenskiy,Russian Federation,44.63,135.35,26.15,55,68,5.97,Europe,RU,3/22/2019
+439,Krasnorechenskiy,Russian Federation,44.63,135.35,26.15,55,68,5.97,Asia,RU,3/22/2019
+440,Goure,Niger,13.98,10.27,75.38,48,0,2.73,Africa,NE,3/22/2019
+441,Szydlowiec,Poland,51.23,20.86,51.01,79,0,1.99,Europe,PL,3/22/2019
+442,Adre,Chad,13.47,22.2,68.54,28,0,6.64,Africa,TD,3/22/2019
+443,Jaslo,Poland,49.75,21.47,46,80,75,10.29,Europe,PL,3/22/2019
+444,Tupik,Russian Federation,54.43,119.94,8.69,52,12,3.4,Europe,RU,3/22/2019
+444,Tupik,Russian Federation,54.43,119.94,8.69,52,12,3.4,Asia,RU,3/22/2019
+445,Cabo San Lucas,Mexico,22.89,-109.91,78.8,47,5,4.7,North America,MX,3/22/2019
+446,Pahrump,United States of America,36.21,-115.98,51.8,62,40,4.7,North America,US,3/22/2019
+447,Kieta,Papua New Guinea,-6.22,155.63,78.26,100,80,4.63,Oceania,PG,3/22/2019
+448,Chaozhou,China,23.66,116.62,71.6,100,75,6.71,Asia,CN,3/21/2019
+449,Igarka,Russian Federation,67.47,86.57,25.61,92,88,10.67,Europe,RU,3/22/2019
+449,Igarka,Russian Federation,67.47,86.57,25.61,92,88,10.67,Asia,RU,3/22/2019
+450,Puerto del Rosario,Spain,28.5,-13.86,62.6,72,0,19.46,Europe,ES,3/22/2019
+451,Indiana,United States of America,40.62,-79.15,48.2,93,90,3.36,North America,US,3/22/2019
+452,Punta Alta,Argentina,-27.46,-55.82,66.2,63,0,4.7,South America,AR,3/22/2019
+453,Amboasary,Madagascar,-25.04,46.38,78.8,94,75,7.43,Africa,MG,3/22/2019
+454,Aklavik,Canada,68.22,-135.01,14,78,90,12.75,North America,CA,3/22/2019
+455,Palmas Bellas,Panama,9.23,-80.09,82.4,65,20,11.41,North America,PA,3/22/2019
+456,Borger,Netherlands,52.92,6.79,48.2,93,90,1.12,Europe,NL,3/22/2019
+457,Mirabad,Iran,28.27,61.33,45.59,55,0,7.54,Asia,IR,3/22/2019
+458,Rincon,United States of America,32.3,-81.24,64,41,1,9.17,North America,US,3/22/2019
+459,Astara,Azerbaijan,38.42,48.87,35.6,100,0,3.36,Europe,AZ,3/22/2019
+459,Astara,Azerbaijan,38.42,48.87,35.6,100,0,3.36,Asia,AZ,3/22/2019
+460,Fukue,Japan,35.03,136.69,66,71,75,31.09,Asia,JP,3/22/2019
+461,Arkansas City,United States of America,37.06,-97.04,63,38,1,4.7,North America,US,3/22/2019
+462,Sept-Iles,Canada,50.2,-66.38,30.99,86,90,9.17,North America,CA,3/22/2019
+463,Moranbah,Australia,-22,148.04,82.85,67,0,7.99,Oceania,AU,3/22/2019
+464,Japura,Indonesia,-0.42,102.29,73.76,95,0,2.17,Asia,ID,3/22/2019
+465,Maceio,Brazil,-9.67,-35.74,82.4,69,20,9.17,South America,BR,3/21/2019
+466,Challapata,Bolivia,-18.9,-66.78,45.77,43,32,2.84,South America,BO,3/22/2019
+467,Sungairaya,Indonesia,0.7,108.9,77.99,86,24,4.63,Asia,ID,3/22/2019
+468,Senador Jose Porfirio,Brazil,-2.59,-51.95,79.79,88,8,4.74,South America,BR,3/22/2019
+469,Marawi,Philippines,8,124.29,79,75,0,3,Asia,PH,3/22/2019
+470,Sisimiut,Greenland,66.94,-53.67,-26.95,40,8,1.72,North America,GL,3/22/2019
+471,Tashla,Russian Federation,53.71,49.75,32,96,90,2.24,Europe,RU,3/21/2019
+471,Tashla,Russian Federation,53.71,49.75,32,96,90,2.24,Asia,RU,3/21/2019
+472,Katherine,Australia,-14.47,132.26,78.8,83,0,5.82,Oceania,AU,3/21/2019
+473,Zeya,Russian Federation,53.74,127.27,7.7,49,0,4.52,Europe,RU,3/22/2019
+473,Zeya,Russian Federation,53.74,127.27,7.7,49,0,4.52,Asia,RU,3/22/2019
+474,Pontian Kecil,Malaysia,1.48,103.39,80.6,83,24,2.24,Asia,MY,3/22/2019
+475,Hirara,Japan,24.8,125.28,77,83,40,13.87,Asia,JP,3/22/2019
+476,Maltahohe,Namibia,-24.83,16.98,63.41,30,0,5.86,Africa,,3/22/2019
+477,Nabire,Indonesia,-3.36,135.5,76.19,84,8,2.17,Asia,ID,3/22/2019
+478,Constantine,Algeria,36.36,6.61,42.8,87,75,3.36,Africa,DZ,3/22/2019
+479,Tommot,Russian Federation,58.97,126.27,-0.4,61,0,2.51,Europe,RU,3/22/2019
+479,Tommot,Russian Federation,58.97,126.27,-0.4,61,0,2.51,Asia,RU,3/22/2019
+480,Talakan,Russian Federation,50.29,130.28,13.01,57,0,5.08,Europe,RU,3/22/2019
+480,Talakan,Russian Federation,50.29,130.28,13.01,57,0,5.08,Asia,RU,3/22/2019
+481,Belmonte,Portugal,40.36,-7.35,37,81,0,2.39,Europe,PT,3/22/2019
+482,Plouzane,France,48.38,-4.62,48.2,81,90,8.05,Europe,FR,3/22/2019
+483,Ambatondrazaka,Madagascar,-17.82,48.43,64.94,97,24,1.95,Africa,MG,3/22/2019
+484,North Platte,United States of America,41.12,-100.77,62.01,34,0,3.4,North America,US,3/22/2019
+485,Lumberton,United States of America,30.27,-94.2,71.01,30,1,5.82,North America,US,3/22/2019
+486,Vizinga,Russian Federation,61.08,50.08,28.85,92,80,4.97,Europe,RU,3/22/2019
+486,Vizinga,Russian Federation,61.08,50.08,28.85,92,80,4.97,Asia,RU,3/22/2019
+487,Borborema,Brazil,-21.62,-49.07,69.8,90,56,18.05,South America,BR,3/22/2019
+488,Berlevag,Norway,70.86,29.09,31.46,100,32,18.84,Europe,NO,3/22/2019
+489,Sao Joao do Paraiso,Brazil,-15.31,-42.01,68.27,95,88,3.29,South America,BR,3/22/2019
+490,El Real de Santa Maria,Panama,8.11,-77.73,81.14,66,0,8.99,North America,PA,3/22/2019
+491,Macas,Ecuador,-2.3,-78.12,77,69,75,5.82,South America,EC,3/21/2019
+492,Iquitos,Peru,-3.75,-73.25,42.8,319,0,3.36,South America,PE,3/21/2019
+493,Balabac,Philippines,7.99,117.06,81.5,100,88,10.56,Asia,PH,3/22/2019
+494,Qaqortoq,Greenland,60.72,-46.03,6.8,42,32,5.82,North America,GL,3/21/2019
+495,La Ronge,Canada,55.1,-105.3,46.4,33,5,4.7,North America,CA,3/22/2019
+496,Manono,Congo,-7.3,27.4,71.51,94,76,3.18,Africa,CD,3/22/2019
+497,Poindimie,New Caledonia,-20.93,165.33,79.61,100,88,15.26,Oceania,NC,3/22/2019
+498,Anadyr,Russian Federation,64.73,177.51,-13.01,75,0,13.42,Europe,RU,3/22/2019
+498,Anadyr,Russian Federation,64.73,177.51,-13.01,75,0,13.42,Asia,RU,3/22/2019
+499,Matamoros,United States of America,25.87,-97.51,73.4,64,90,10.29,North America,US,3/22/2019
+500,Huilong,China,28.89,110.18,40.28,96,92,6.31,Asia,CN,3/22/2019
+501,Sibolga,Indonesia,1.74,98.78,68.36,100,8,1.72,Asia,ID,3/22/2019
+502,Atar,Mauritania,20.52,-13.05,72.32,20,80,4.63,Africa,MR,3/22/2019
+503,Tuatapere,New Zealand,-46.13,167.69,66.11,77,24,1.61,Oceania,NZ,3/22/2019
+504,Alekseyevsk,Russian Federation,57.84,108.35,15.53,76,36,5.64,Europe,RU,3/22/2019
+504,Alekseyevsk,Russian Federation,57.84,108.35,15.53,76,36,5.64,Asia,RU,3/22/2019
+505,Itoman,Japan,26.12,127.67,71.6,78,75,14.99,Asia,JP,3/22/2019
+506,Broken Hill,Australia,-31.97,141.45,84.2,21,0,14.99,Oceania,AU,3/21/2019
+507,Malanje,Angola,-9.54,16.35,64.76,94,24,2.28,Africa,AO,3/22/2019
+508,Ayotzintepec,Mexico,17.67,-96.13,62.96,97,92,1.95,North America,MX,3/22/2019
+509,Sobolevo,Russian Federation,54.43,31.9,37.49,94,92,12.91,Europe,RU,3/22/2019
+509,Sobolevo,Russian Federation,54.43,31.9,37.49,94,92,12.91,Asia,RU,3/22/2019
+510,Saqqez,Iran,36.24,46.27,17.87,73,0,2.73,Asia,IR,3/22/2019
+511,El Vigia,Mexico,26.85,-109.72,79,29,40,14.99,North America,MX,3/22/2019
+512,Bandarbeyla,Somalia,9.49,50.81,77,100,88,6.42,Africa,SO,3/22/2019
+513,Salinopolis,Brazil,-0.61,-47.36,79.16,100,92,6.98,South America,BR,3/22/2019
+514,Havelock,United States of America,34.88,-76.9,55.99,71,1,8.05,North America,US,3/22/2019
+515,De-Kastri,Russian Federation,51.48,140.77,9.86,100,68,9.66,Europe,RU,3/22/2019
+515,De-Kastri,Russian Federation,51.48,140.77,9.86,100,68,9.66,Asia,RU,3/22/2019
+516,Moree,Australia,-29.46,149.84,84.99,58,0,16.11,Oceania,AU,3/22/2019
+517,Khorixas,Namibia,-20.37,14.96,63.32,65,0,2.73,Africa,,3/22/2019
+518,Micheldorf,Austria,46.91,14.43,34,81,0,5.82,Europe,AT,3/22/2019
+519,Borba,Portugal,38.81,-7.46,43.34,61,32,6.98,Europe,PT,3/22/2019
+520,ChengDe,China,40.97,117.93,31.1,44,0,6.76,Asia,CN,3/22/2019
+521,Emerald,Australia,-23.53,148.16,84,69,75,9.17,Oceania,AU,3/22/2019
+522,Warri,Nigeria,5.52,5.75,78.53,91,12,7.65,Africa,NG,3/22/2019
+523,Miguel Calmon,Brazil,-11.43,-40.6,73.49,82,36,6.2,South America,BR,3/22/2019
+524,Porto Novo,Brazil,-23.68,-45.44,66.2,88,75,12.75,South America,BR,3/22/2019
+525,Abha,Saudi Arabia,18.22,42.5,60.8,58,0,5.82,Asia,SA,3/22/2019
+526,Campbell River,Canada,50.02,-125.24,62.6,50,75,5.82,North America,CA,3/22/2019
+527,Tomari,Russian Federation,47.76,142.06,15.62,98,80,16.26,Europe,RU,3/22/2019
+527,Tomari,Russian Federation,47.76,142.06,15.62,98,80,16.26,Asia,RU,3/22/2019
+528,Henties Bay,Namibia,-22.12,14.28,61,90,0,5.99,Africa,,3/22/2019
+529,Beringovskiy,Russian Federation,63.05,179.32,-0.67,100,0,19.51,Europe,RU,3/22/2019
+529,Beringovskiy,Russian Federation,63.05,179.32,-0.67,100,0,19.51,Asia,RU,3/22/2019
