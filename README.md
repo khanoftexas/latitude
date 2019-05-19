@@ -1,9 +1,6 @@
 <b>URL for dashboard:</b> https://khanoftexas.github.io/latitude
 
-
-
-
-
+![ScreenShot](latitude.png)
 
 # Unit 12 | Assignment - Web Visualization Dashboard (Latitude)
 
